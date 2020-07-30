@@ -1,0 +1,7 @@
+2
+ru.itmo.isddev.Ilin.fraction.BigIntegerFraction
+2
+3
+ru.itmo.isddev.Ilin.fraction.IntegerFraction
+5
+6

@@ -1,0 +1,10 @@
+3
+ru.itmo.isddev.Ilin.fraction.BigIntegerFraction
+12
+9
+ru.itmo.isddev.Ilin.fraction.IntegerFraction
+24
+16
+ru.itmo.isddev.Ilin.fraction.IntegerFraction
+60
+36
